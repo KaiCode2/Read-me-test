@@ -1,1 +1,1 @@
-[![Zulip](./zulip.png)](https://chat.zulip.org)
+[![Zulip](./Join The Chat on Zulip.png)](https://chat.zulip.org)
